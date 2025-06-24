@@ -1,95 +1,134 @@
-<h1 align="center">Hi 👋, I'm Umesha Godawela</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
+# 👋 Hi there, I'm Umesha Godawela!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="coding" width="250"/>
-</p>
+<div align="center">
+  
+### 🚀 Full Stack Developer | 🇱🇰 Sri Lanka | ✨ Code Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=godawela&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="coding" width="300" style="border-radius: 10px;"/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=godawela&theme=dracula&margin-w=15&margin-h=15&column=7" alt="trophies"/>
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=godawela&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/godawela)
+[![GitHub followers](https://img.shields.io/github/followers/godawela?style=for-the-badge&color=blue)](https://github.com/godawela)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🌟 About Me
 
-- 🔭 I’m currently working on **React, Flutter, and Java projects**
-- 📝 I write tech articles on [Medium](https://medium.com/@godawelaus.21)
-- 💬 Ask me about **React, Flutter, SQL, C, Java**
-- 📫 Reach me at **umeshagodawela@gmail.com**
+```javascript
+const umesha = {
+    currentFocus: ["React", "Flutter", "Java Development"],
+    learning: ["Advanced React Patterns", "Mobile Development", "Backend Architecture"],
+    askMeAbout: ["React", "Flutter", "SQL", "C", "Java", "Full Stack Development"],
+    contact: "umeshagodawela@gmail.com",
+    funFact: "I love turning ideas into reality through code! 💡"
+};
+```
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/umesha-godawela22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@godawelaus.21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" alt="Medium" height="30" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/umeshagodawela" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="HackerRank" height="30" width="30"/>
-  </a>
-</p>
+- 🔭 **Currently working on:** React, Flutter, and Java projects
+- 📝 **Writing tech articles on:** [Medium](https://medium.com/@godawelaus.21)
+- 🌱 **Always learning:** New technologies and best practices
+- 💬 **Let's talk about:** Web development, mobile apps, and software architecture
+- ⚡ **Fun fact:** I believe every problem has an elegant solution in code!
 
 ---
 
-### ⚒️ Tech Stack
+## 🏆 GitHub Trophies
 
-**Languages & Frameworks**
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=godawela&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-</p>
-
-**Databases & Backend**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godawela&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godawela&layout=compact&theme=radical" width="47%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godawela&theme=radical" width="95%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umesha-godawela22)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@godawelaus.21)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/umeshagodawela)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeshagodawela@gmail.com)
+
+</div>
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🗄️ Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godawela&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=godawela&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Umesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=godawela&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thanks for visiting my profile! Happy coding! 🚀**
+
+[![](https://visitcount.itsvg.in/api?id=godawela&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
