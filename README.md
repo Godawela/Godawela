@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Full Stack Developer | 🇱🇰 Sri Lanka | ✨ Code Enthusiast
+### 🚀 Full Stack and Mobile Developer | 🇱🇰 Sri Lanka | ✨ Code Enthusiast
 
 <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="coding" width="300" style="border-radius: 10px;"/>
 
